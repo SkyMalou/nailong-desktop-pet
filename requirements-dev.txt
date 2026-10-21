@@ -1,0 +1,4 @@
+-r requirements.txt
+numpy>=1.24,<3
+scipy>=1.11,<2
+pyinstaller>=6.10,<7
